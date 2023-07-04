@@ -12,7 +12,6 @@ print(first)
 for j in range(m):
     second.add(input(f'Введите {j+1} элемент второго множества  > '))
 print(second)
-
 print('____________________________________________________________')
 one = list(first)
 two = list(second)
